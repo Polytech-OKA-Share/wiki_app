@@ -561,7 +561,7 @@
         </java.beans.PropertyChangeSupport>
       </listeners>
       <constraint>
-        <height>614</height>
+        <height>611</height>
         <width>198</width>
         <x>260</x>
         <y>7</y>
